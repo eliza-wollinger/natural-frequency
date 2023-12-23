@@ -31,7 +31,7 @@ library(deSolve)
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mass-spring-simulation.git
+git clone https://github.com/your-username/natural-frequency.git
 ```
 Open the R script mass_spring_simulation.R in your preferred R environment.
 
